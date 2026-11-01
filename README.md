@@ -1,17 +1,16 @@
-
 <!-- ================= HEADER ================= -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=376BFF&height=180&section=header&text=Hrishikesh%20Jaiswal&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Business%20%7C%20Technology%20%7C%20Growth&descAlignY=58&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=376BFF&center=true&vCenter=true&width=600&lines=Curious+Mind.+Builder+at+Heart.;Exploring+Business+%26+Technology;Learning+Something+New+Every+Day;Ideas+%E2%86%92+Experiments+%E2%86%92+Impact" alt="Typing SVG" />
-
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hrishikesh.one-376BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://work.hrishikesh.one)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hrishikeshjaiswal/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/taking0ver)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=620&lines=Bridging+Business+Strategy+%26+Modern+Tech;Growth+Marketing+%E2%80%A2+Analytics+%E2%80%A2+AI+Workflows;Turning+Data+%26+Experiments+Into+Revenue;MBA+%40+Indian+Institute+of+Management+Kashipur" alt="Typing SVG" />
+<p align="center">
+  <a href="https://work.hrishikesh.one"><img src="https://img.shields.io/badge/Portfolio-work.hrishikesh.one-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/hrishikeshjaiswal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:mail@hrishikesh.one"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 </div>
 
@@ -19,45 +18,41 @@
 
 <!-- ================= ABOUT ME ================= -->
 
-## 👋 About Me
+## Executive Summary
 
-Hey! I'm **Hrishikesh Jaiswal**, an MBA student at **IIM Kashipur**, interested in the intersection of business, technology and growth.
+Hrishikesh Jaiswal is an MBA candidate at **IIM Kashipur** operating at the intersection of **Growth Marketing, Business Analytics, and Digital Product Strategy**. 
 
-I enjoy understanding business problems, exploring new technologies and building solutions that create real-world impact.
+His work focuses on designing data-backed go-to-market motions, optimizing conversion funnels, and building functional prototypes using modern tooling and automation workflows.
 
--  MBA Student at IIM Kashipur
-- Interested in Marketing, Growth & Strategy
-- Exploring Business Analytics, AI & Automation
-- Building digital products and experimenting with ideas
-- Interested in data-driven decision-making
-- Always learning, experimenting and building
+* **Academic Background:** MBA Candidate, Indian Institute of Management Kashipur
+* **Specialisation:** Growth Marketing, Conversion Rate Optimization (CRO), Customer Acquisition, and Retention
+* **Technology and Automation:** AI-assisted workflows, low-code product prototyping, and marketing operations automation
+* **Analytical Focus:** Hypothesis-driven experimentation leveraging behavioral analytics, SQL, and cohort retention models
 
-> I believe the best way to learn is to build something.
+> *"Great marketing is iterative: formulate hypotheses, measure signal over noise, and scale what creates quantifiable value."*
 
 ---
 
-<!-- ================= WHAT I DO ================= -->
+<!-- ================= FOCUS AREAS ================= -->
 
-## 🧭 What I'm Exploring
+## Core Focus Areas
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 Business & Strategy
-- Growth Strategy
-- Marketing Analytics
-- Business Development
-- Market Research
+### Strategic and Growth Marketing
+* **Go-To-Market (GTM) Execution:** Market entry frameworks, audience segmentation, and value proposition design.
+* **Performance and Retention:** Paid acquisition funnel optimization, CAC-to-LTV balancing, and lifecycle marketing.
+* **Market Intelligence:** Competitor benchmarking, consumer insights, and brand positioning research.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 Technology & Building
-- Artificial Intelligence
-- No-Code / Low-Code
-- Automation
-- Digital Products
+### Analytics and Experimentation
+* **Marketing Analytics:** Multi-touch attribution, cohort retention tracking, and conversion funnels.
+* **Automation and AI:** Integrating LLM APIs into marketing workflows, scrapers, and operational pipelines.
+* **Rapid Prototyping:** Validating product-market fit using landing pages, Webflow, and functional MVPs.
 
 </td>
 </tr>
@@ -65,102 +60,80 @@ I enjoy understanding business problems, exploring new technologies and building
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+<!-- ================= TOOLKIT ================= -->
 
-## 🛠️ Tools & Technologies
+## Marketing and Analytics Stack
 
-### Analytics & Data
-
+### Growth and Performance
 <p>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads"/>
+  <img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="GA4"/>
+  <img src="https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GSC"/>
 </p>
 
-### Marketing & Business
-
+### Analytics and Business Intelligence
 <p>
-<img src="https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Sheets"/>
 </p>
 
-### Development & Productivity
-
+### Development and Operations
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </p>
 
 ---
 
 <!-- ================= PROJECTS ================= -->
 
-## 🚀 Projects & Experiments
+## Projects and Case Studies
 
-| Project | Description |
-|---|---|
-| [BrandifyMe](https://brandifyme.tools) | Exploring AI-powered personal branding tools |
-| [hrishikesh.one](https://mail.hrishikesh.one) | My personal website and digital identity |
-| More coming soon | Building, experimenting and learning |
-
----
-
-<!-- ================= GITHUB STATS ================= -->
-
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=taking0ver&show_icons=true&theme=default&hide_border=true&title_color=376BFF&icon_color=376BFF&include_all_commits=true&cache_seconds=86400" />
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=taking0ver&layout=compact&theme=default&hide_border=true&title_color=376BFF&langs_count=8&cache_seconds=86400" />
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com/?user=taking0ver&theme=default&hide_border=true&ring=376BFF&fire=376BFF&currStreakLabel=376BFF" />
-
-</div>
-
+| Project | Domain | Overview and Impact |
+|---|---|---|
+| **[BrandifyMe](https://brandifyme.tools)** | AI Tooling / Product Marketing | An AI-assisted personal branding suite designed to streamline thought leadership and content generation for professionals. |
+| **[hrishikesh.one](https://work.hrishikesh.one)** | Personal Brand / GTM Showcase | Centralized digital portfolio featuring growth teardowns, marketing analytics projects, and product experiments. |
+| **Market Strategy Teardowns** | Growth and Strategy | Structured case analyses examining customer acquisition strategies, retention loops, and unit economics across consumer brands. |
 
 ---
 
-<!-- ================= CONTRIBUTIONS ================= -->
+<!-- ================= GITHUB METRICS ================= -->
 
-## My Contribution Graph
+## Activity and Contributions
 
 <div align="center">
-
-<img src="https://ghchart.rshah.org/376BFF/taking0ver" alt="Hrishikesh's GitHub Contribution Graph" width="100%"/>
-
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=taking0ver&show_icons=true&theme=default&hide_border=true&title_color=1D4ED8&icon_color=1D4ED8&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=taking0ver&layout=compact&theme=default&hide_border=true&title_color=1D4ED8&langs_count=6&cache_seconds=86400" alt="Top Languages" />
 </div>
-
-<div align="center">
-  <sub>Every contribution is a step forward. 💙</sub>
-</div>
-
-
----
-
-<!-- ================= CONNECT ================= -->
-
-## 🤝 Let's Connect
-
-I'm always open to interesting conversations, collaborations and opportunities to learn something new.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Website-hrishikesh.one-376BFF?style=flat-square&logo=googlechrome&logoColor=white)](https://work.hrishikesh.one)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hrishikesh_Jaiswal-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hrishikeshjaiswal)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@hrishikesh.one)
 
 <br/>
 
-**Ideas → Build → Learn → Repeat**
+<div align="center">
+  <img src="https://ghchart.rshah.org/1D4ED8/taking0ver" alt="Hrishikesh's GitHub Contribution Graph" width="100%"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=376BFF&height=100&section=footer"/>
+---
+
+<!-- ================= FOOTER / CONNECT ================= -->
+
+<div align="center">
+
+## Connect
+
+Open to discussions on growth strategy, digital product marketing, analytics, and collaborative initiatives.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/hrishikeshjaiswal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://work.hrishikesh.one"><img src="https://img.shields.io/badge/Portfolio-Explore_Work-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:mail@hrishikesh.one"><img src="https://img.shields.io/badge/Email-Direct_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=100&section=footer"/>
 
 </div>
