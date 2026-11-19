@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=620&lines=Bridging+Business+Strategy+%26+Modern+Tech;Growth+Marketing+%E2%80%A2+Analytics+%E2%80%A2+AI+Workflows;Turning+Data+%26+Experiments+Into+Revenue;MBA+%40+Indian+Institute+of+Management+Kashipur" alt="Typing SVG" />
 <p align="center">
-  <a href="https://work.hrishikesh.one/projects"><img src="https://img.shields.io/badge/Portfolio-work.hrishikesh.one-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://work.hrishikesh.one"><img src="https://img.shields.io/badge/Portfolio-work.hrishikesh.one-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/hrishikeshjaiswal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:mail@hrishikesh.one"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
